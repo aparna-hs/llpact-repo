@@ -1,4 +1,4 @@
-58.
+58
 (1) The Registrar, on satisfying that a firm, private company or an unlisted public company, as the case may be, has complied with the provisions of the Second Schedule, the Third Schedule or the Fourth Schedule, as the case may be, shall, subject to the provisions of this Act and the rules made thereunder, register the documents submitted under such Schedule and issue a certificate of registration in such form as the Registrar may determine stating that the limited liability partnership is, on and from the date specified in the certificate, registered under this Act :
 
     Provided that the limited liability partnership shall, within fifteen days of the date of registration, inform the concerned Registrar of Firms or Registrar of Companies, as the case may be, with which it was registered under the provisions of the Indian Partnership Act, 1932 (9 of 1932) or the Companies Act, 1956 (1 of 1956), as the case may be, about the conversion and of the particulars of the limited liability partnership in such form and manner as may be prescribed.

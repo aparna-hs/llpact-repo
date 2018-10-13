@@ -1,4 +1,4 @@
-31.
+31
 (1) The Court or Tribunal may reduce or waive any penalty leviable against any partner or employee of a limited liability partnership, if it is satisfied that—
 
     (a)	such partner or employee of a limited liability partnership has provided useful information during investigation of such limited liability partnership; or

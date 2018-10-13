@@ -1,4 +1,4 @@
-78.
+78
 (1) The Central Government may, by notification in the Official Gazette, alter any of the provisions contained in any of the Schedules to this Act.
 
 (2) Any alteration notified under sub-section (1) shall have effect as if enacted in the Act and shall come into force on the date of the notification, unless the notification otherwise directs.

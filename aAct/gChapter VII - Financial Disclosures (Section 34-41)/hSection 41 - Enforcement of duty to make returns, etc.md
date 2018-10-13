@@ -1,4 +1,4 @@
-41.
+41
 (1) If any limited liability partnership is in default in complying with—
 
     (a)	any provisions of this Act or of any other law which requires the filing in any manner with the Registrar of any return, account or other document or the giving of notice to him of any matter; or

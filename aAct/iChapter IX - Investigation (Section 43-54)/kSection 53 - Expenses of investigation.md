@@ -1,4 +1,4 @@
-53.
+53
 (1) The expenses of and incidental to an investigation by an inspector appointed by the Central Government under this Act shall be defrayed in the first instance by the Central Government; but the following persons shall, to the extent mentioned below, be liable to reimburse the Central Government in respect of such expenses, namely :—
 
     (a)	any person who is convicted on a prosecution, or who is ordered to pay damages or restore any property in proceedings brought by virtue of section 52, may, in the same proceedings, be ordered to pay the said expenses to such extent as may be specified by the court convicting such person, or ordering him to pay such damages or restore such property, as the case may be;

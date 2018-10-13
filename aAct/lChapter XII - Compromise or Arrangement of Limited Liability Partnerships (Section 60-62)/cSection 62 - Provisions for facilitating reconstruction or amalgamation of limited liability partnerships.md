@@ -1,4 +1,4 @@
-62.
+62
 (1) Where an application is made to the Tribunal under section 60 for sanctioning of a compromise or arrangement proposed between a limited liability partnership and any such persons as are mentioned in that section, and it is shown to the Tribunal that—
 
     (a)	compromise or arrangement has been proposed for the purposes of, or in connection with, a scheme for the reconstruction of any limited liability partnership or limited liability partnerships, or the amalgamation of any two or more limited liability partnerships; and

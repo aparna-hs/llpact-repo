@@ -1,4 +1,4 @@
-27.
+27
 (1) A limited liability partnership is not bound by anything done by a partner in dealing with a person if—
 
     (a)	the partner in fact has no authority to act for the limited liability partnership in doing a particular act; and

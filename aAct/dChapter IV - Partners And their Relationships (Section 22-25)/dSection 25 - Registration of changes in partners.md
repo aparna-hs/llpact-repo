@@ -1,4 +1,4 @@
-25.
+25
 (1) Every partner shall inform the limited liability partnership of any change in his name or address within a period of fifteen days of such change.
 
 (2) A limited liability partnership shall—

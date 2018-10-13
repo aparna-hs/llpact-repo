@@ -1,4 +1,4 @@
-43.
+43
 (1) The Central Government shall appoint one or more competent persons as inspectors to investigate the affairs of a limited liability partnership and to report thereon in such manner as it may direct if—
 
     (a)	the Tribunal, either suo motu, or on an application received from not less than one-fifth of the total number of partners of limited liability partnership, by order, declares that the affairs of the limited liability partnership ought to be investigated; or

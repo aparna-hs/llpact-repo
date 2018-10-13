@@ -1,4 +1,4 @@
-79.
+79
 (1) The Central Government may, by notification in the Official Gazette, make rules for carrying out the provisions of this Act.
 
 (2) In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely :—

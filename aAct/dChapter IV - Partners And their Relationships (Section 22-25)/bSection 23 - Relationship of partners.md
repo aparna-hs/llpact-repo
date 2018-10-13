@@ -1,4 +1,4 @@
-23.
+23
 (1) Save as otherwise provided by this Act, the mutual rights and duties of the partners of a limited liability partnership, and the mutual rights and duties of a limited liability partner­ship and its partners, shall be governed by the limited liability partnership agreement between the partners, or between the limit­ed liability partnership and its partners.
 
 (2) The limited liability partnership agreement and any changes, if any, made therein shall be filed with the Registrar in such form, manner and accompanied by such fees as may be prescribed.

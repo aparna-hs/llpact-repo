@@ -1,4 +1,4 @@
-49.
+49
 (1) The inspectors may, and if so directed by the Central Government, shall make interim reports to that Government, and on the conclusion of the investigation, shall make a final report to the Central Government and any such report shall be written or printed, as the Central Government may direct.
 
 (2) The Central Government—

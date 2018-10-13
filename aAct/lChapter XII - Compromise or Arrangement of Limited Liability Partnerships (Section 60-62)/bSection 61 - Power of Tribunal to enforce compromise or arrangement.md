@@ -1,4 +1,4 @@
-61.
+61
 (1) Where the Tribunal makes an order under section 60 sanctioning a compromise or an arrangement in respect of a limited liability partnership, it—
 
     (a)	shall have power to supervise the carrying out of the compromise or an arrangement; and

@@ -1,4 +1,4 @@
-47.
+47
 (1) It shall be the duty of the designated partner and partners of the limited liability partnership—
 
     (a)	to preserve and to produce before an inspector or any person authorised by him in this behalf with the previous approval of the Central Government, all books and papers of, or relating to, the limited liability partnership or, as the case may be, the other entity, which are in their custody or power; and

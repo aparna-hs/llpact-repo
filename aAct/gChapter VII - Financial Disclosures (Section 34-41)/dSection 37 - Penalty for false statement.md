@@ -1,4 +1,4 @@
-37.
+37
 If in any return, statement or other document required by or for the purposes of any of the provisions of this Act, any person makes a statement—
 
     (a)	which is false in any material particular, knowing it to be false; or

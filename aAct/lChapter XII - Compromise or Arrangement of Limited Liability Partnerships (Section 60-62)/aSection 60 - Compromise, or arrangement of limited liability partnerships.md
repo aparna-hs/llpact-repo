@@ -1,4 +1,4 @@
-60.
+60
 (1) Where a compromise or arrangement is proposed—
 
     (a)	between a limited liability partnership and its creditors; or

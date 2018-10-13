@@ -1,4 +1,4 @@
-24.
+24
 (1) A person may cease to be a partner of a limited liability partnership in accordance with an agreement with the other partners or, in the absence of agreement with the other partners as to cessation of being a partner, by giving a notice in writing of not less than thirty days to the other partners of his intention to resign as partner.
 
 (2) A person shall cease to be a partner of a limited liability partnership—

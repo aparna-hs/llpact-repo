@@ -1,4 +1,4 @@
-42.
+42
 (1) The rights of a partner to a share of the profits and losses of the limited liability partnership and to receive distributions in accordance with the limited liability partnership agreement are transferable either wholly or in part.
 
 (2) The transfer of any right by any partner pursuant to sub-section (1) does not by itself cause the disassociation of the partner or a dissolution and winding up of the limited liability partnership.

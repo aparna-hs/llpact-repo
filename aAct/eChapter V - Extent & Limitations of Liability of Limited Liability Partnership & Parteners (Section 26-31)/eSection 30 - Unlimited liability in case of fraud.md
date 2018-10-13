@@ -1,4 +1,4 @@
-30.
+30
 (1) In the event of an act carried out by a limited liability partnership, or any of its partners, with intent to defraud creditors of the limited liability partnership or any other person, or for any fraudulent purpose, the liability of the limited liability partnership and partners who acted with intent to defraud creditors or for any fraudulent purpose shall be un-limited for all or any of the debts or other liabilities of the limited liability partnership :
 
     Provided that in case any such act is carried out by a partner, the limited liability partnership is liable to the same extent as the partner unless it is established by the limited liability partnership that such act was without the knowledge or the authority of the limited liability partnership.
