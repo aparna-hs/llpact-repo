@@ -1,4 +1,5 @@
-3. (1) A limited liability partnership is a body corporate formed and incorporated under this Act and is a legal entity separate from that of its partners.
+3.
+(1) A limited liability partnership is a body corporate formed and incorporated under this Act and is a legal entity separate from that of its partners.
 
 (2) A limited liability partnership shall have perpetual succession;
 

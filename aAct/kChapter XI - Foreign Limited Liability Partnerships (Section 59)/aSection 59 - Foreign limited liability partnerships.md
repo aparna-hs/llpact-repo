@@ -1,0 +1,2 @@
+59.
+The Central Government may make rules for provisions in relation to establishment of place of business by foreign limited liability partnerships within India and carrying on their business therein by applying or incorporating, with such modifications, as appear appropriate, the provisions of the Companies Act, 1956 (1 of 1956) or such regulatory mechanism with such composition as may be prescribed

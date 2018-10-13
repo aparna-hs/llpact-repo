@@ -1,15 +1,16 @@
 **The Second Schedule**
 
-*[See section 55]*
+*(See section 55)*
 
-Conversion from firm into limited liability partnership
+CONVERSION FROM FIRM INTO LIMITED LIABILITY PARTNERSHIP
 
 **Interpretation**
 
 1. In this Schedule, unless the context otherwise requires,—
 
-(a)	‘firm’ means a firm as defined in section 4 of the Indian Partnership Act, 1932 (9 of 1932);
-(b)	‘convert’, in relation to a firm converting into a limited liability partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the firm to the limited liability partnership in accordance with this Schedule.
+  (a)	‘firm’ means a firm as defined in section 4 of the Indian Partnership Act, 1932 (9 of 1932);
+
+  (b)	‘convert’, in relation to a firm converting into a limited liability partnership, means a transfer of the property, assets, interests, rights, privileges, liabilities, obligations and the undertaking of the firm to the limited liability partnership in accordance with this Schedule.
 
 **Conversion from firm into limited liability partnership**
 
@@ -25,35 +26,39 @@ Conversion from firm into limited liability partnership
 
 4. A firm may apply to convert into a limited liability partnership by filing with the Registrar—
 
-(a)	a statement by all of its partners in such form and manner and accompanied by such fee as the Central Government may prescribe, containing the following particulars, namely:—
-(i)	the name and registration number, if applicable, of the firm; and
-(ii)	the date on which the firm was registered under the Indian Partnership Act, 1932 (9 of 1932) or under any other law, if applicable, and
+    (a)	a statement by all of its partners in such form and manner and accompanied by such fee as the Central Government may prescribe, containing the following particulars, namely:—
 
-(b)	incorporation document and statement referred to in section 11.
+        (i)	the name and registration number, if applicable, of the firm; and
+
+        (ii)	the date on which the firm was registered under the Indian Partnership Act, 1932 (9 of 1932) or under any other law, if applicable, and
+
+    (b)	incorporation document and statement referred to in section 11.
 
 **Registration of conversion**
 
 5. On receiving the documents referred to in paragraph 4, the Registrar shall subject to the provisions of this Act, register the documents and issue a certificate of registration in such form as the Registrar may determine stating that the limited liability partnership is, on and from the date specified in the certificate, registered under this Act:
 
-Provided that the limited liability partnership shall, within fifteen days of the date of registration, inform, the concerned Registrar of Firms with which it was registered under the provisions of the Indian Partnership Act, 1932 (9 of 1932) about the conversion and of the particulars of the limited liability partnership in such form and manner as the Central Government may prescribe.
+    Provided that the limited liability partnership shall, within fifteen days of the date of registration, inform, the concerned Registrar of Firms with which it was registered under the provisions of the Indian Partnership Act, 1932 (9 of 1932) about the conversion and of the particulars of the limited liability partnership in such form and manner as the Central Government may prescribe.
 
-Registrar may refuse to register.
+**Registrar may refuse to register**
 
 6. (1) Nothing in this Schedule shall be construed as to require the Registrar to register any limited liability partnership if he is not satisfied with the particulars or other information furnished under the provisions of this Act:
 
-Provided that an appeal may be made before the Tribunal in case of refusal of registration by the Registrar.
+    Provided that an appeal may be made before the Tribunal in case of refusal of registration by the Registrar.
 
-"Provided further that until the Tribunal is constituted under the Companies Act, 1956, the appeal under this sub-paragraph may be made before the Company Law Board";
+    "Provided further that until the Tribunal is constituted under the Companies Act, 1956, the appeal under this sub-paragraph may be made before the Company Law Board";
 
 (2) The Registrar may, in any particular case, require the documents referred to in paragraph 4 to be verified in such manner, as he considers fit.
 
-**Effect of registratio**
+**Effect of registration**
 
 7. On and from the date of registration specified in the certificate of registration issued under paragraph 5,—
 
-(a)	there shall be a limited liability partnership by the name specified in the certificate of registration registered under this Act;
-(b)	all tangible (movable and immovable) property as well as intangible property vested in the firm, all assets, interests, rights, privileges, liabilities, obligations relating to the firm and the whole of the undertaking of the firm shall be transferred to and shall vest in the limited liability partnership without further assurance, act or deed; and
-(c)	the firm shall be deemed to be dissolved and if earlier registered under the Indian Partnership Act, 1932 (9 of 1932) removed from the records maintained under that Act.
+    (a)	there shall be a limited liability partnership by the name specified in the certificate of registration registered under this Act;
+
+    (b)	all tangible (movable and immovable) property as well as intangible property vested in the firm, all assets, interests, rights, privileges, liabilities, obligations relating to the firm and the whole of the undertaking of the firm shall be transferred to and shall vest in the limited liability partnership without further assurance, act or deed; and
+
+    (c)	the firm shall be deemed to be dissolved and if earlier registered under the Indian Partnership Act, 1932 (9 of 1932) removed from the records maintained under that Act.
 
 **Registration in relation to property**
 
@@ -69,7 +74,11 @@ Provided that an appeal may be made before the Tribunal in case of refusal of re
 
 **Existing agreements**
 
-11. Every agreement to which the firm was a party immediately before the date of registration, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if— (a)	the limited liability partnership were a party to such an agreement instead of the firm; and (b)	for any reference to the firm, there were substituted in respect of anything to be done on or after the date of registration a reference to the limited liability partnership.
+11. Every agreement to which the firm was a party immediately before the date of registration, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if—
+
+    (a)	the limited liability partnership were a party to such an agreement instead of the firm; and
+
+    (b)	for any reference to the firm, there were substituted in respect of anything to be done on or after the date of registration a reference to the limited liability partnership.
 
 **Existing contracts, etc**
 
@@ -98,7 +107,9 @@ Provided that an appeal may be made before the Tribunal in case of refusal of re
 **Notice of conversion in correspondence**
 
 17. (1) The limited liability partnership shall ensure that for a period of twelve months commencing not later than fourteen days after the date of registration, every official correspondence of the limited liability partnership bears the following :
-(a)	a statement that it was, as from the date of registration, converted from a firm into a limited liability partnership; and
-(b)	the name and registration number, if applicable, of the firm from which it was converted.
+
+    (a)	a statement that it was, as from the date of registration, converted from a firm into a limited liability partnership; and
+
+    (b)	the name and registration number, if applicable, of the firm from which it was converted.
 
 (2) Any limited liability partnership which contravenes the provisions of sub-paragraph (1) shall be punishable with fine which shall not be less than ten thousand rupees but which may extend to one lakh rupees and with a further fine which shall not be less than fifty rupees but which may extend to five hundred rupees for everyday after the first day after which the default continues.
