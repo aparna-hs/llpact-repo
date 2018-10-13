@@ -1,4 +1,4 @@
-21.
+21
 (1) Every limited liability partnership shall ensure that its invoices, official correspondence and publications bear the following, namely :—
 
     (a)	the name, address of its registered office and registration number of the limited liability partnership; and

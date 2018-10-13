@@ -1,4 +1,4 @@
-12.
+12
 (1) When the requirements imposed by clauses (b) and (c) of sub-section (1) of section 11 have been complied with, the Registrar shall retain the incorporation document and, unless the requirement imposed by clause (a) of that sub-section has not been complied with, he shall, within a period of fourteen days —
 
   (a)	register the incorporation document; and

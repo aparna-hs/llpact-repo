@@ -1,4 +1,4 @@
-16.
+16
 (1) A person may apply in such form and manner and accompanied by such fee as may be prescribed to the Registrar for the reservation of a name set out in the application as—
 
     (a)	the name of a proposed limited liability partnership; or

@@ -1,4 +1,4 @@
-15.
+15
 (1) Every limited liability partnership shall have either the words “limited liability partnership” or the acronym “LLP” as the last words of its name.
 
 (2) No limited liability partnership shall be registered by a name which, in the opinion of the Central Government is—

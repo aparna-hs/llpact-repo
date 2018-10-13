@@ -1,4 +1,4 @@
-11.
+11
 (1) For a limited liability partnership to be incorporated,—
 
     (a)	two or more persons associated for carrying on a lawful business with a view to profit shall subscribe their names to an incorporation document;

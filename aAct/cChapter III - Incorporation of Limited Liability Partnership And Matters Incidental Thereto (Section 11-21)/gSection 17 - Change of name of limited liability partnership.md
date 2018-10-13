@@ -1,4 +1,4 @@
-17.
+17
 (1) Notwithstanding anything contained in sections 15 and 16, where the Central Government is satisfied that a limited liability partnership has been registered (whether through inadvertence or otherwise and whether originally or by a change of name) under a name which—
 
   (a)	is a name referred to in sub-section (2) of section 15; or

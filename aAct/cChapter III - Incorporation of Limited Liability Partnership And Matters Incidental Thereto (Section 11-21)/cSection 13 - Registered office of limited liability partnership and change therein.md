@@ -1,4 +1,4 @@
-13.
+13
 (1) Every limited liability partnership shall have a registered office to which all communications and notices may be addressed and where they shall be received.
 
 (2) A document may be served on a limited liability partnership or a partner or designated partner thereof by sending it by post under a certificate of posting or by registered post or by any other manner, as may be prescribed, at the registered office and any other address specifically declared by the limited liability partnership for the purpose in such form and manner as may be prescribed.

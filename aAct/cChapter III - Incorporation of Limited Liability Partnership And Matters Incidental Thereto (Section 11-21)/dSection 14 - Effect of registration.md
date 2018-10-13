@@ -1,4 +1,4 @@
-14.
+14
 On registration, a limited liability partnership shall, by its name, be capable of—
 
 (a)	suing and being sued;
