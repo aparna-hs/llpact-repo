@@ -1,4 +1,4 @@
-41.
+41
 (1) Every application for the compounding of an offence shall be made in **Form 31** to the Registrar who shall forward the same, together with his comments thereon, to the Central Government.
 
 (2) Where any offence is compounded before the institution of any prosecution, no prosecution shall be instituted in relation to such offence, against the offender in relation to whom the offence is so compounded.

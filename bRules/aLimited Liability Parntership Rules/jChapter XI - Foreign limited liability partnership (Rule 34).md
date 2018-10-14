@@ -1,4 +1,4 @@
-34.
+34
 (1) A foreign limited liability partnership shall, within thirty days of establishing a place of business in India, file with the Registrar in **Form 27** —
 
     (a)	a copy of the certificate of incorporation or registration and other instrument(s) constituting or defining the constitution of the limited liability partnership;

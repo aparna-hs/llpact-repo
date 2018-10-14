@@ -1,4 +1,4 @@
-28.
+28
 For the purposes of clause (a) of sub-section (3) of section 43, an application by the partners to investigate into the affairs of the limited liability partnership, shall be made, along with such security, for an amount calculated on the following scale but not exceeding twenty five lakh rupees, for payment of costs of the investigation:
 
 **Turnover (Rs.)** - [as stated in the Statement of Account of Solvency for the immediately preceding financial year]

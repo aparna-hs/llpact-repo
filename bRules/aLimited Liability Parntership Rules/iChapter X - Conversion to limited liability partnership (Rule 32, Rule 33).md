@@ -1,4 +1,4 @@
-32.
+32
 (1) The Registrar shall, on conversion of a firm, private company or an unlisted public company into limited liability partnership, issue a Certificate of Registration under his seal in **Form 19**.
 
 (2) In the event, Registrar has refused the registration, the applicant firm or private company or unlisted public company, as the case may be, may apply to the Tribunal within sixty days from the date of receipt of such intimation of refusal.

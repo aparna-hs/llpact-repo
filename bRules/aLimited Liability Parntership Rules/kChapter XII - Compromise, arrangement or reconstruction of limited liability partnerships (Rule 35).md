@@ -1,4 +1,4 @@
-35.
+35
 (1) An application under sub-section (1) of section 60 for an order convening a meeting of creditors or partners or creditors and partners shall be supported by an affidavit. A copy of the proposed compromise or arrangement shall be annexed to the affidavit as an exhibit thereto. The affidavit in support thereof shall be in **Form 20**.
 
 (2) Where the limited liability partnership is not the applicant, a copy of the summons and of the affidavit shall be served on the limited liability partnership, or, where the limited liability partnership is being wound-up, on its liquidator, not less than 14 days before the date fixed for the hearing of the summons. The summons shall be in **Form 21**.

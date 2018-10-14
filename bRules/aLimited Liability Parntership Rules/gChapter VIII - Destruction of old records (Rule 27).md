@@ -1,4 +1,4 @@
-27.
+27
 (1)	The Registrar shall preserve the documents permanently as specified in Annexure ‘B’ to these rules.
 
 (2)	Subject to previous order of the Registrar, the records in the office of Registrar may be destroyed after the expiry of the period of their preservation as specified below:-

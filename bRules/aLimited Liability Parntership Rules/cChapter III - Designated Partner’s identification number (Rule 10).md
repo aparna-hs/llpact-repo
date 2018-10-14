@@ -1,4 +1,4 @@
-10.
+10
 (1) Every individual, who intends to be appointed as a designated partner of an existing limited liability partnership, shall make an application electronically in Form DIR-3 under the Companies (Appointment and Qualifications of Directors) Rules, 2014 for obtaining DPIN under the Limited Liability Partnership Act, 2008 and such DIN shall be sufficient for being appointed as designated partner under the Limited Liability Partnership Act, 2008
 
 (2) If a person holds both DIN and DPIN, his DPIN shall stand cancelled and DIN shall be sufficient for being appointed as Designated Partner under Limited Liability Partnership Act, 2008.

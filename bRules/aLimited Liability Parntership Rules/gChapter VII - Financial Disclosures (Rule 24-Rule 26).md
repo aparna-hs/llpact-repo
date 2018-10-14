@@ -1,4 +1,4 @@
-24.
+24
 (1)	Every limited liability partnership shall keep books of accounts which are sufficient to show and explain the limited liability partnership’s transactions and are such as to—
 
     (a) disclose with reasonable accuracy, at any time, the financial position of the limited liability partnership at that time; and

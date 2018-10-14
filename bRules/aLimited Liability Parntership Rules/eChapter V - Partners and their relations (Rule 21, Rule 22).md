@@ -1,4 +1,4 @@
-21.
+21
 (1) For the purposes of sub-section (2) of section 23, every limited liability partnership shall file information with regard to the limited liability partnership agreement in **Form 3** with the Registrar within thirty days of the date of incorporation along with the fee as provided in Annexure ‘A’:
 
     Provided that any change made in the limited liability partnership agreement shall be filed in Form 3 within thirty days of such change along with the fee as provided in Annexure ‘A’.

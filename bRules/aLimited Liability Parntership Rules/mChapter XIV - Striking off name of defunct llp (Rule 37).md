@@ -1,4 +1,4 @@
-37.
+37
 (1)	Where a limited liability partnership is not carrying on any business or operation -
 
     (a)	for a period of two years or more and the Registrar has reasonable cause to believe the same, for the purpose of taking suo motu action for striking off the name of the LLP; or

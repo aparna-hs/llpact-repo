@@ -1,4 +1,4 @@
-36.
+36
 (1)
     (i) Every form or application or document or declaration required to be filed or delivered under the Act and rules made there under, shall be filed in computer readable electronic form, in portable document format (pdf) to the Registrar through the portal maintained by the Ministry of Corporate Affairs on its web-site www.mca.gov.in or through any other website approved by the Central Government and authenticated by a partner or designated partner of the limited liability partnership for such purpose by the use of a valid digital signature:
 
