@@ -87,12 +87,12 @@
 
     (d) The auditor’s term comes to an end as on the date on which the notice is deposited or on such later date as may be specified in the notice.
 
-25.
+25
 (1)	For the purposes of sub section (1) of section 35, every limited liability partnership shall file an annual return with the Registrar in **Form 11**.
 
 (2) The annual return of an LLP having turnover up to five crore rupees during the corresponding financial year or contribution up to fifty lakh rupees shall be accompanied with a certificate from a designated partner, other than the signatory to the annual return, to the effect that annual return contains true and correct information. In all other cases, the annual return shall be accompanied with a certificate from a Company Secretary in practice to the effect that he has verified the particulars from the books and records of the limited liability partnership and found them to be true and correct.
 
 (3)	The fees to be paid to the Registrar in pursuance of sub-section (1) of section 35 for filing the annual return shall be as mentioned in Annexure ‘A’.
 
-26.
+26
 The documents to be kept by the Registrar under section 36 shall be available in the registry on payment of fee as mentioned in Annexure ‘A’ for inspection by any person and for obtaining any certified copy thereof.

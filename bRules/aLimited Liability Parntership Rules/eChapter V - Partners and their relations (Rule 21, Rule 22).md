@@ -6,7 +6,7 @@
 (2) For the purposes of sub-section (3) of section 23, every limited liability partnership shall get the LLP agreement, referred to that in sub-section, rectified by all the partners immediately after incorporation and shall file information contained therein in **Form 3** with the Registrar within thirty days of the incorporation of the LLP along with the fee as provided in Annexure A.
 
 
-22.
+22
 (1)	For the purposes of sub-section (1) of section 25, every partner shall intimate change in his name or address to the limited liability partnership in **Form 6**.
 
 (2)	For the purposes of sub-section (2) of section 25, where a person becomes or ceases to be a partner or where there is any change in the name or address of a partner, the limited liability partnership shall file with the Registrar, a notice in **Form 4**.

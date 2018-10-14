@@ -18,20 +18,20 @@
 
 (3) The Certificate of Incorporation of limited liability partnership shall be issued by the Registrar in **Form 16**.
 
-12.
+12
 Where the intending partner is a body corporate, copy of Resolution on the letterhead of such body corporate to become a partner in the proposed LLP and a copy of resolution or authorization also on letterhead mentioning the name and address of an individual nominated to act as nominee or nominee & Designated Partner on its behalf shall be attached:
 
     Provided that in the case of foreign nationals residing outside India or foreign body corporate(s) registered outside India, seeking to register a LLP in India, the name, address and signature of an individual or nominee or nominee & Designated Partner of a body corporate on the incorporation document, proof of identity, where required and documents referred in this rule, shall be dully certified and the provisions of sub-rule (2) of rule 34 of these rules, shall apply mutatis mutandis for this purpose”.
 
-13.
+13
 The statement to be filed along with the incorporation document under clause (c) of sub-section (1) of section 11 shall be in the format provided in Part B of **Form FiLLiP**.
 
-14.
+14
 (1) In the office of Registrar there shall be maintained a Register of LLPs in which the names of LLPs shall be entered in the order in which they are registered.
 
 (2) Every LLP so registered shall be assigned a LLP identification number (LLPIN) in one consecutive series.
 
-15.
+15
 (1)	A document can be served on a limited liability partnership or a partner or designated partner thereof through the following other modes-
 
     (i) electronic transmission;
@@ -56,7 +56,7 @@ The statement to be filed along with the incorporation document under clause (c)
 
   (ii) Courier means a document sent through a courier which provides the proof of delivery.
 
-16.
+16
 (1) A limited liability partnership shall give an address for service of documents within the jurisdiction of the Registrar where its registered office is situate. Such address shall include the postal code and e-mail address.
 
 (2) The limited liability partnership, may, in addition to the registered office address, declare any other address as its address for service of documents, under sub-section (2) of section 13, in the manner as laid down in the limited liability partnership agreement. Where the limited liability partnership agreement does not provide for such manner, consent of all partners shall be required for declaring any other address as the address for service of documents.
@@ -65,7 +65,7 @@ The statement to be filed along with the incorporation document under clause (c)
 
 (4) The effective date for the service of documents to LLP at the other address declared by the LLP cannot be prior to the date of filing of document under sub rule (3).
 
-17.
+17
 (1) The limited liability partnership may change its registered office from one place to another by following the procedure as laid down in the limited liability partnership agreement. Where the limited liability partnership agreement does not provide for such procedure, consent of all partners shall be required for changing the place of registered office of limited liability partnership to another place:
 
     Provided that where the change in place of registered office is from one State to another State, the limited liability partnership having secured creditors shall also obtain consent of such secured creditors.
@@ -78,7 +78,7 @@ The statement to be filed along with the incorporation document under clause (c)
 
 (5)	Where the change in place of registered office is from one place to another place within the state from the jurisdiction of one Registrar to the jurisdiction of another Registrar or from one state to another state, the limited liability partnership shall file the notice in **Form 15** with the Registrar from where the limited liability partnership proposes to shift its registered office with a copy thereof for the information to the Registrar under whose jurisdiction the registered office is proposed to be shifted.
 
-18.
+18
 (1) The name of the limited liability partnership shall not be one prohibited under the Emblems and Names (Prevention of Improper Use) Act, 1950.
 
 (2) A name shall not generally be reserved, if -
@@ -131,7 +131,7 @@ The statement to be filed along with the incorporation document under clause (c)
 
 (6)	Where the Registrar informs applicant about reservation of name with which the LLP is to be registered or changed name, as the case may be, such name shall be available for reservation for a period of three months from the date of intimation by the Registrar.
 
-19.
+19
 (1)	A limited liability partnership or a body corporate or any other entity which already has a name which is similar to or which too nearly resembles the name of a limited liability partnership incorporated subsequently, may apply to the Registrar in **Form 23** to give a direction to that limited liability partnership incorporated subsequently to change its name.
 
 (2)	The application under sub-rule (1) shall state -
@@ -152,7 +152,7 @@ The statement to be filed along with the incorporation document under clause (c)
 
 (5) The application shall be accompanied by a fee as mentioned in Annexure ‘A’.
 
-20.
+20
 (1)	The limited liability partnership may change its name by following the procedure as laid down in the limited liability partnership agreement. Where the limited liability partnership agreement does not provide such procedure, consent of all partners shall be required for changing the name of the limited liability partnership.
 
 (2)	Notice of change of name shall be given to the Registrar in **Form 5**, within 30 days of complying with requirement of sub-rule (1), along with a fee as mentioned in Annexure ‘A’.

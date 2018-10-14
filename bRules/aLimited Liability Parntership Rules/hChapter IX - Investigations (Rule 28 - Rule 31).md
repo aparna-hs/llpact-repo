@@ -13,13 +13,13 @@ For the purposes of clause (a) of sub-section (3) of section 43, an application 
 
     *Explanation* - In the absence of Statement of Account and Solvency for the preceding financial year, such amount of security as may be fixed by the Central Government.
 
-29.
+29
 For the purposes of section 44, an application by the partners under clause (a) of sub section (1) of section 43 to investigate the affairs of the limited liability partnership, shall be made along with the deposit of such security as calculated in the manner specified in rule 28.
 
-30.
+30
 The fee payable for furnishing a copy of the Inspector’s report in pursuance of clause (b), sub section (2), section 49 shall be five rupees per page or fractional part thereof.
 
-31.
+31
 For the purposes of section 54, a copy of the report of any inspector or inspectors, shall be authenticated either –
 
     (a)	by the common seal, if any, of the limited liability partnership whose affairs have been investigated into; or
